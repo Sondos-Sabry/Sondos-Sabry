@@ -2,10 +2,10 @@ Hi, I'm Sondos Hammad 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=Sondos-Sabry&color=blue)
 
 ## 📚 Education
-- 🎓 I'm a Jenior CS Student @FCI - Menoufia University.
+## - 🎓 I'm a Jenior CS Student @FCI - Menoufia University.
 
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+## 🚀 About Me :
+## - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/sondos-hammad">
