@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
  
-- 🎓 I'm a Junior CS Student @FCI - Menoufia University.
+- 🎓 I'm a Junior CS Student **@FCI - Menoufia University**.
 - :telescope: I am a passionate Full Stack Developer specializing in .NET and Angular.
 
 ## 📫 How to reach me
