@@ -5,7 +5,7 @@
 - 🎓 I'm a Junior CS Student **@FCI - Menoufia University**.
 - :telescope: I am a passionate Full Stack Developer specializing in .NET and Angular.
 - 📂 I’m currently open for a new Internship or Job opportunity [Here's MY RESUME](https://drive.google.com/drive/folders/1ncc5vN8ps_gEvcjhWgVf5fWP3x7plpvs?usp=sharing).
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sondos-hammad)  [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sondoshammad2002@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sondos-hammad)  [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sondoshammad2002@gmail.com)
 
 ## 🛠 Programming Skills & Developer Tools
 ### Programming Languages
