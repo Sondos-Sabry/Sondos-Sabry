@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typeScript" alt="typeScript" width="40" height="40"/>&nbsp;
 
 ### Concepts
-  <img src="[https://th.bing.com/th/id/OIP.kFxlVSqn5USVEqDj6nXbUAAAAA?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.n1XwEEP5Ev6EbXJnB-4HGwHaHa?rs=1&pid=ImgDetMain)" title="oop" alt="oop" width="40"height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.n1XwEEP5Ev6EbXJnB-4HGwHaHa?rs=1&pid=ImgDetMain" title="oop" alt="oop" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.kFxlVSqn5USVEqDj6nXbUAAAAA?rs=1&pid=ImgDetMain" title="linq" alt="linq" width="40" height="40"/>&nbsp;
 <img src="https://th.bing.com/th/id/R.59308815330e2d8da9133b2c18562f87?rik=CyBlCw%2fdaGn6PA&pid=ImgRaw&r=0" title="ef" alt="ef" width="40" height="40"/>&nbsp;
 
