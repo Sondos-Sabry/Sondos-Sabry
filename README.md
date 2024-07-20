@@ -47,4 +47,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sondos-Sabry&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sondos-Sabry&theme=dark&background=000000&width=400&height=200)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondos-Sabry&layout=compact&theme=vision-friendly-dark&width=400&height=200)](https://github.com/anuraghazra/github-readme-stats)
