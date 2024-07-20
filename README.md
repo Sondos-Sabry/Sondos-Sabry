@@ -21,20 +21,21 @@
 ## 🛠 Programming Skills & Developer Tools
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typeScript" alt="typeScript" width="40" height="40"/>&nbsp;
 
 ### Concepts
-- **Object Oriented Programming (OOP)**
-- **LINQ**
-- **Entity Framework**
+  <img src="[https://th.bing.com/th/id/OIP.kFxlVSqn5USVEqDj6nXbUAAAAA?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.n1XwEEP5Ev6EbXJnB-4HGwHaHa?rs=1&pid=ImgDetMain)" title="oop" alt="oop" width="40"height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.kFxlVSqn5USVEqDj6nXbUAAAAA?rs=1&pid=ImgDetMain" title="linq" alt="linq" width="40" height="40"/>&nbsp;
+<img src="https://th.bing.com/th/id/R.59308815330e2d8da9133b2c18562f87?rik=CyBlCw%2fdaGn6PA&pid=ImgRaw&r=0" title="ef" alt="ef" width="40" height="40"/>&nbsp;
+
 
 ### Frameworks
 <img src="https://www.csharp411.com/wp-content/uploads/2023/05/MVC-Logo-1.jpg" title="MVC" alt="MVC" width="40" height="40"/>&nbsp;
 <img src="https://dignitas.digital/wp-content/uploads/2022/01/SignalR.jpg" title="SignalR" alt="SignalR" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  title="angular" alt="angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  title="angular" alt="angular" width="40" height="40"/>&nbsp;
  
 ### Web Technologies
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
