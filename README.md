@@ -1,4 +1,4 @@
-# Hi, I'm Sondos Hammad 👋
+### Hi, I'm Sondos Hammad 👋
 
 ## 🚀 About Me
  
@@ -34,7 +34,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver"  alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
-### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sondos-Sabry&theme=dark&background=000000&width=200&height=200)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondos-Sabry&layout=compact&theme=vision-friendly-dark&width=400&height=200)](https://github.com/anuraghazra/github-readme-stats)
